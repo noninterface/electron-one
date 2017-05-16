@@ -6,7 +6,10 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/noninterface/electron-one",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noninterface/electron-one.git"
+  },
   "keywords": [
     "Electron",
     "quick",
@@ -18,5 +21,12 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/noninterface/electron-one/issues"
+  },
+  "homepage": "https://github.com/noninterface/electron-one#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
