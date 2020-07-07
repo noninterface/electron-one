@@ -20,7 +20,7 @@
   "author": "Gerson",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "~9.1.0"
   },
   "bugs": {
     "url": "https://github.com/noninterface/electron-one/issues"
